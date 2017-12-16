@@ -1,1 +1,1 @@
-# Roll the Dice
+Basic roll the dice game on javascript
